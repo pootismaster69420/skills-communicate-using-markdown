@@ -1,7 +1,7 @@
 # hello world!
 
 
-
+var myVar = "Hello, world!";
 
 
 I made a header that says "hello world!"
